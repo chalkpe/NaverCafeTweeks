@@ -1,5 +1,3 @@
-//<html><head><title>MOVE</title></head><body><script>
-    
 var MK = "http://cafe.naver.com/minecraftpe.cafe?iframe_url=/ArticleList.nhn%3Fsearch.clubid=23683173%26search.menuid=30%26search.boardtype=L";
 var MV = "http://cafe.naver.com/ArticleMove.nhn?m=result&clubid=23683173&menuid=30&targetmenuid=147&articleid=";
 
@@ -29,5 +27,3 @@ function start(){
         window.open(MV + articles, "__CHALK__");
     }, 5000);
 }
-
-//</script></body></html>
